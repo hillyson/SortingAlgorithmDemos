@@ -1,0 +1,6 @@
+C:\Projects\OrderAlgorithm\OrderAlgorithm\bin\Debug\OrderAlgorithm.exe.config
+C:\Projects\OrderAlgorithm\OrderAlgorithm\obj\Debug\OrderAlgorithm.csprojResolveAssemblyReference.cache
+C:\Projects\OrderAlgorithm\OrderAlgorithm\bin\Debug\OrderAlgorithm.exe
+C:\Projects\OrderAlgorithm\OrderAlgorithm\bin\Debug\OrderAlgorithm.pdb
+C:\Projects\OrderAlgorithm\OrderAlgorithm\obj\Debug\OrderAlgorithm.exe
+C:\Projects\OrderAlgorithm\OrderAlgorithm\obj\Debug\OrderAlgorithm.pdb
